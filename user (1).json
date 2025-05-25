@@ -1,0 +1,45 @@
+]
+[
+  {
+    "username": "admin",
+    "password": "admin123#2",
+    "license": "lifetime",
+    "admin": true,
+    "owner": false,
+    "banned": false,
+    "discord_id": "admin#0001"
+  }
+  {
+    "username": "superadmin",
+    "password": "superpass",
+    "license": "lifetime",
+    "admin": true,
+    "owner": true,
+    "banned": false,
+    "discord_id": "owner#0001"
+  }
+]
+]
+[
+  {
+    "username": "snikers",
+    "password": "admin",
+    "license": "lifetime",
+    "admin": true,
+    "owner": true,
+    "banned": false,
+    "discord_id": "admin#0002"
+  },
+  {
+]
+[
+  {
+    "username": "www122",
+    "password": "56123",
+    "license": "lifetime",
+    "admin": false,
+    "owner": false,
+    "banned": false,
+    "discord_id": "admin#0001"
+  },
+  {
